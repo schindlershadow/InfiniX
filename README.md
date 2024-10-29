@@ -1,0 +1,2 @@
+# InfiniX
+InfiniX Modpack
