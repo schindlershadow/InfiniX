@@ -1,2 +1,3 @@
 # InfiniX
-InfiniX Modpack
+InfiniX Modpack Issue tracker 
+https://www.curseforge.com/minecraft/modpacks/infinix
